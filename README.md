@@ -1,16 +1,30 @@
-## Hi there 👋
+# Ignacio Farias - Portafolio de Desarrollo
 
-<!--
-**nachofarias16/nachofarias16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Hola, soy Ignacio Farias, un estudiante de Ingeniería en Sistemas apasionado por el desarrollo de software. Actualmente estoy cursando el segundo año de mi carrera y busco oportunidades para crecer como programador.
 
-Here are some ideas to get you started:
+- 🎓 Estudiante de Ingeniería en Sistemas (2do año)
+- 💻 Aspirante a desarrollador de software
+- 🌱 Siempre aprendiendo y mejorando mis habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objetivos profesionales
+Mi objetivo principal es desarrollarme como programador de software, aunque estoy abierto a explorar otras áreas dentro del campo de la tecnología. Busco oportunidades que me permitan aplicar mis conocimientos y seguir aprendiendo.
+
+## Educación
+- Ingeniería en Sistemas, 2do año (En curso)
+  UTN Regional La Plata
+  2023-2024
+
+## Contacto
+- LinkedIn: [Ignacio Farias](https://www.linkedin.com/in/ignacio-farias-8808b3272/)
+- Correo electrónico: [nachofarias16@gmail.com]
+
+## Intereses
+- Desarrollo de software
+- Inteligencia artificial
+- Automatización
+  
+
+---
+
+Siempre estoy interesado en nuevos proyectos y oportunidades de aprendizaje. No dudes en contactarme si quieres colaborar o tienes alguna oportunidad que pueda ser de mi interés.
