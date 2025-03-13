@@ -11,9 +11,9 @@ Hola, soy Ignacio Farias, un estudiante de Ingeniería en Sistemas apasionado po
 Mi objetivo principal es desarrollarme como programador de software, aunque estoy abierto a explorar otras áreas dentro del campo de la tecnología. Busco oportunidades que me permitan aplicar mis conocimientos y seguir aprendiendo.
 
 ## Educación
-- Ingeniería en Sistemas, 2do año (En curso)
+- Ingeniería en Sistemas, 3er año (En curso con materias de 2do)
   UTN Regional La Plata
-  2023-2024
+  2023-2025
 
 ## Contacto
 - LinkedIn: [Ignacio Farias](https://www.linkedin.com/in/ignacio-farias-8808b3272/)
