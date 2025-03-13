@@ -1,7 +1,7 @@
 # Ignacio Farias - Portafolio de Desarrollo
 
 ## Sobre mí
-Hola, soy Ignacio Farias, un estudiante de Ingeniería en Sistemas apasionado por el desarrollo de software. Actualmente estoy cursando el segundo año de mi carrera y busco oportunidades para crecer como programador.
+Hola, soy Ignacio Farias, un estudiante de Ingeniería en Sistemas apasionado por el desarrollo de software. Actualmente estoy cursando el tercer año de mi carrera y busco oportunidades para crecer como programador.
 
 - 🎓 Estudiante de Ingeniería en Sistemas (3er año)
 - 💻 Aspirante a desarrollador de software
